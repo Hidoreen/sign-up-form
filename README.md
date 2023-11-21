@@ -6,7 +6,7 @@ Form Validation: Validates that all fields are filled before submission.
 Password Matching: Checks if the entered password matches the confirm password field.
 
 # Show Preview 
-http://127.0.0.1:5500/index.html
+https://hidoreen.github.io/sign-up-form/
 
 # Technologies Used
 HTML: The structure of the form.
